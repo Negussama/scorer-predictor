@@ -1,1 +1,25 @@
 # scorer-predictor
+[Team-Player-iXG60-Recent-Prob.csv](https://github.com/user-attachments/files/24988659/Team-Player-iXG60-Recent-Prob.csv)
+"Team","Player","iXG/60","Recent","Prob"
+"BUF","T. Thompson","0.62","1.5","82.3%"
+"TOR","A. Matthews","0.68","1.6","83.2%"
+"LAK","Q. Byfield","0.58","1.4","75.0%"
+"DET","D. Larkin","0.62","1.5","80.1%"
+"VGK","J. Eichel","0.60","1.5","80.4%"
+"MTL","C. Caufield","0.65","1.7","84.8%"
+"NSH","F. Forsberg","0.58","1.4","76.1%"
+"BOS","D. Pastrnak","0.62","1.6","82.8%"
+"WPG","K. Connor","0.58","1.5","78.2%"
+"NJD","T. Meier","0.52","1.3","72.1%"
+"DAL","J. Robertson","0.55","1.4","76.7%"
+"STL","J. Neighbours","0.54","1.3","70.5%"
+"CHI","C. Bedard","0.60","1.4","76.9%"
+"MIN","K. Kaprizov","0.62","1.5","80.1%"
+"UTA","S. Dvorak","0.54","1.3","69.8%"
+"FLA","M. Tkachuk","0.65","1.6","83.6%"
+"WSH","A. Ovechkin","0.66","1.6","83.2%"
+"SEA","J. McCann","0.58","1.4","76.7%"
+"SJS","F. Zetterlund","0.55","1.3","73.3%"
+"VAN","E. Pettersson","0.60","1.5","78.9%"
+
+pandas>=1.5.0
